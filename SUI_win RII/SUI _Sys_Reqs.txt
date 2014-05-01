@@ -1,0 +1,15 @@
+Surgical UI system requirements:
+
+Windows XP:
+
+Install the following files:
+
+(Ganesh add specific URLS and dir paths)
+
+1)  Qt library
+
+2)  Sensable Omni Developers Libr.
+
+3)  Proper versions of hd.lib, hd.dll
+
+

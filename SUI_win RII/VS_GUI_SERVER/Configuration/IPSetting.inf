@@ -1,0 +1,23 @@
+15
+r2b3 128 95 30 126
+r2b2 128 95 30 184
+r3b1 128 95 205 132
+keynes 128 95 205 74
+localhost 127 0 0 1
+bubbles 128 95 205 17
+buttercup 128 95 205 18
+my_addr 128 95 205 197
+fredrik 128 95 205 168
+ravensim 128 95 205 206
+fredrikmac 192 168 0 102
+biomedical 128 95 205 36
+r2b3 128 95 30 223
+eve 128 95 30 238
+evewin 128 95 30 180
+
+// Grammer
+// 1. number of IP address
+// 2. IP name IP address, which should be descriminated by space ' ', not '.'
+// 3. the name of defult IP address
+
+// Maximum number of IP addresses is 16

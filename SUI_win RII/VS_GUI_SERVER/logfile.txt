@@ -1,0 +1,11 @@
+26-July-2012	12:54:02.792	HK	1	Surgeon logged in.
+26-July-2012	12:54:49.542	HK	2	Surgeon logged out
+22-August-2013	18:09:37.897	HK	1	Surgeon logged in.
+22-August-2013	18:11:10.150	HK	1	Surgeon logged in.
+22-August-2013	18:11:21.015	HK	2	Surgeon logged out
+22-August-2013	18:13:26.372	HK	1	Surgeon logged in.
+22-August-2013	18:17:02.743	HK	1	Surgeon logged in.
+22-August-2013	18:17:25.200	HK	2	Surgeon logged out
+22-August-2013	18:17:31.478	HK	1	Surgeon logged in.
+26-August-2013	19:31:07.741	HK	3	Pedal down
+04-September-2013	23:05:12.498	HK	2	Surgeon logged out

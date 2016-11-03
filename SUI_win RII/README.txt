@@ -110,14 +110,15 @@ Known Issues
 3.  The "Elapsed Surgery Time" dialog  does not accurately reflect the time spent in the current session.
 
 
----------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
 
 Contact
 
 ---------------------------------------------------------------------------
 This is a rough overview of the SUI_win RII setup and operation.  
 
-For more information contact Hawkeye King <hawkeye1@u.washington.edu>.
+For more information contact Andrew Lewis <andrew@applieddexterity.com>.
 
 
 Created 14 June 2012.
